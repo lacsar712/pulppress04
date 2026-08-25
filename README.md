@@ -1,3 +1,5 @@
+基于 Go 实现的纸浆压榨线调度 Web 项目，一款后端服务，处理压区压力校验、出站指令与浆线批次落库。
+
 # PulpPress Nip
 
 纸浆压榨线 / 压区压力批次调度投递
@@ -15,4 +17,3 @@ go run ./cmd/seed -db ./data.sqlite
 ```
 
 Open http://127.0.0.1:8080/ for the console.
-
